@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".presenatation.ui.activity.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="32dp"
+        android:text="Quiz"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_marginStart="67dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="263sp"
+        android:text="Category"
+        android:textSize="12sp" />
+
+    <Button
+        android:layout_width="240dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="284dp"
+        android:layout_marginBottom="335dp"
+        android:background=""
+        android:text="All"
+        android:layout_marginHorizontal="68dp"
+        android:textColor="#69607B" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
