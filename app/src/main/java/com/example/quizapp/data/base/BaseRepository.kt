@@ -1,6 +1,6 @@
-package com.example.quizzapp.data.base
+package com.example.quizapp.data.base
 
-import com.example.quizzapp.common.either.Either
+import com.example.quizapp.common.either.Either
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.catch
 import kotlinx.coroutines.flow.flow

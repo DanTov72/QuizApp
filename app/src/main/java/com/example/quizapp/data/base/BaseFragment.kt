@@ -1,4 +1,4 @@
-package com.example.quizzapp.data.base
+package com.example.quizapp.data.base
 
 import android.os.Bundle
 import android.view.View

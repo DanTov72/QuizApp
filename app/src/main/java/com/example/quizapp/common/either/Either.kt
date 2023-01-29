@@ -1,4 +1,4 @@
-package com.example.quizzapp.common.either
+package com.example.quizapp.common.either
 
 sealed class Either<out L, out R> {
     data class Left<out L>(val message: L? = null) : Either<L, Nothing>()
